@@ -1,0 +1,165 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "1",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://app.roboflow.ai/datasets/cats_breed_object_detection/1",
+        "date_created": "2021-06-09T09:47:56+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "",
+            "name": "Unknown"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "Labelme",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "Calico",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 2,
+            "name": "Chartreux",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 3,
+            "name": "Dilute Calico",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 4,
+            "name": "Domestic long hair",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 5,
+            "name": "Domestic short hair",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 6,
+            "name": "Nebelung",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 7,
+            "name": "Ocicat",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 8,
+            "name": "Persian",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 9,
+            "name": "Singapura",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 10,
+            "name": "Tonkinese",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 11,
+            "name": "munchkin",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 12,
+            "name": "sphynx",
+            "supercategory": "Labelme"
+        },
+        {
+            "id": 13,
+            "name": "tiger cat",
+            "supercategory": "Labelme"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "1_jpg.rf.eb4c7b3b538a2e464c5ff7a2a4a45c4b.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-06-09T09:47:56+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "6_jpg.rf.c89da453f58a0a7ec67ced5a935cf956.jpg",
+            "height": 416,
+            "width": 416,
+            "date_captured": "2021-06-09T09:47:56+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 10,
+            "bbox": [
+                13,
+                64,
+                262.5,
+                323
+            ],
+            "area": 84787.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 11,
+            "bbox": [
+                280,
+                67,
+                135,
+                317.5
+            ],
+            "area": 42862.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                5,
+                37,
+                214.5,
+                377.5
+            ],
+            "area": 80973.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 2,
+            "bbox": [
+                224,
+                108,
+                187.5,
+                307
+            ],
+            "area": 57562.5,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
